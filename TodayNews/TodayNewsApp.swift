@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct HackerNewsApp: App {
+struct TodayNewsApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
